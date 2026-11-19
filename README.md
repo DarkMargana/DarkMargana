@@ -17,9 +17,11 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/DarkMargana/High-performance-data-processing">
-        <img src="assets/dashboard.svg" alt="Панель управления" width="100%" />
-      </a>
+      <a href="https://github.com/DarkMargana/Dr.-House-The-Plague-Doctor-">
+  <img src="assets/doctor-house.svg"
+       alt="Доктор Хаус — Обработка сигналов"
+       width="100%" />
+</a>
     </td>
   </tr>
   <tr>
