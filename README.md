@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/banner-surreal-v2.png" alt="Монохромная сюрреалистичная композиция" width="100%" />
+  <img src="assets/banner-surreal-v2.png.png" alt="Монохромная сюрреалистичная композиция" width="100%" />
 </div>
 
 <br>
