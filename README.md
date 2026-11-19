@@ -17,7 +17,7 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/DarkMargana/Dashboard">
+      <a href="https://github.com/DarkMargana/High-performance-data-processing">
         <img src="assets/dashboard.svg" alt="Панель управления" width="100%" />
       </a>
     </td>
