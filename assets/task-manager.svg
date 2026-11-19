@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="270" viewBox="0 0 850 270"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16191D"/><stop offset=".6" stop-color="#080A0C"/><stop offset="1" stop-color="#22272B"/></linearGradient><linearGradient id="glow"><stop stop-color="#6C777E" stop-opacity=".1"/><stop offset=".55" stop-color="#F0F2F3" stop-opacity=".85"/><stop offset="1" stop-color="#7D8A93" stop-opacity=".12"/></linearGradient></defs><rect x="2" y="2" width="846" height="266" rx="19" fill="url(#bg)" stroke="#7D858B" stroke-width="2"/><path d="M22 27H130 M22 27V75 M828 195V242H710" stroke="#D4D7D9" stroke-opacity=".7" fill="none"/><g fill="none" stroke="url(#glow)" stroke-width="1.25" opacity=".85"><ellipse cx="695" cy="135" rx="16.0" ry="5.8" transform="rotate(0 695 135)"/>
+<ellipse cx="695" cy="135" rx="21.0" ry="7.6" transform="rotate(7 695 135)"/>
+<ellipse cx="695" cy="135" rx="26.0" ry="9.4" transform="rotate(14 695 135)"/>
+<ellipse cx="695" cy="135" rx="31.0" ry="11.2" transform="rotate(21 695 135)"/>
+<ellipse cx="695" cy="135" rx="36.0" ry="13.0" transform="rotate(28 695 135)"/>
+<ellipse cx="695" cy="135" rx="41.0" ry="14.8" transform="rotate(35 695 135)"/>
+<ellipse cx="695" cy="135" rx="46.0" ry="16.6" transform="rotate(42 695 135)"/>
+<ellipse cx="695" cy="135" rx="51.0" ry="18.4" transform="rotate(49 695 135)"/>
+<ellipse cx="695" cy="135" rx="56.0" ry="20.2" transform="rotate(56 695 135)"/>
+<ellipse cx="695" cy="135" rx="61.0" ry="22.0" transform="rotate(63 695 135)"/>
+<ellipse cx="695" cy="135" rx="66.0" ry="23.8" transform="rotate(70 695 135)"/>
+<ellipse cx="695" cy="135" rx="71.0" ry="25.6" transform="rotate(77 695 135)"/>
+<ellipse cx="695" cy="135" rx="76.0" ry="27.4" transform="rotate(84 695 135)"/>
+<ellipse cx="695" cy="135" rx="81.0" ry="29.2" transform="rotate(91 695 135)"/>
+<ellipse cx="695" cy="135" rx="86.0" ry="31.0" transform="rotate(98 695 135)"/>
+<ellipse cx="695" cy="135" rx="91.0" ry="32.8" transform="rotate(105 695 135)"/>
+<ellipse cx="695" cy="135" rx="96.0" ry="34.6" transform="rotate(112 695 135)"/>
+<ellipse cx="695" cy="135" rx="101.0" ry="36.4" transform="rotate(119 695 135)"/>
+<ellipse cx="695" cy="135" rx="106.0" ry="38.2" transform="rotate(126 695 135)"/>
+<ellipse cx="695" cy="135" rx="111.0" ry="40.0" transform="rotate(133 695 135)"/></g><path d="M485 38V231" stroke="#A5ABB0" stroke-opacity=".25"/><text x="42" y="66" fill="#8E989E" font-size="16" letter-spacing="4" font-family="Arial,sans-serif">ПРОЕКТ / 03</text><text x="42" y="128" fill="#F2F2F1" font-size="32" font-family="Georgia,serif">Менеджер задач</text><text x="42" y="168" fill="#C0C6C9" font-size="18" font-family="Arial,sans-serif">Организация задач и контроль прогресса</text><path d="M42 208H380" stroke="#656D73"/><circle cx="42" cy="208" r="3" fill="#E9E9E9"/><path d="M787 39H819V71 M819 39L781 77" stroke="#E8EBEC" stroke-width="2" fill="none"/></svg>
